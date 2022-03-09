@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/forecast?q=SÃO%20PAULO&appid=24d25bbf2d4928f07700e16e22663cb4
